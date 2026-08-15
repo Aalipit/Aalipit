@@ -1,4 +1,4 @@
-<# 🌊 Hey there, I'm Aliza!
+# 🌊 Hey there, I'm Aliza!
 
 ### Full-Stack AI Engineer | Merging Data Science with Intuitive Design
 Baguio-based developer specializing in bridging the gap between complex ML models and user-centric web applications.
@@ -24,5 +24,5 @@ Baguio-based developer specializing in bridging the gap between complex ML model
 ### 🐚 Connect with me
 [LinkedIn](www.linkedin.com/in/aliza-joy-alipit-01b33b388) • [Portfolio](https://aliza-portfolio.onrender.com) • [Email](mailto:alizajoyalipit@gmail.com)
 
-![Aliza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aalipit&show_icons=true&theme=oceanical_next&hide_border=true)!--
+![Aliza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aalipit&show_icons=true&theme=nord&hide_border=true)
 
