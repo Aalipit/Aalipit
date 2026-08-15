@@ -24,5 +24,8 @@ Baguio-based developer specializing in bridging the gap between complex ML model
 ### 🐚 Connect with me
 [LinkedIn](www.linkedin.com/in/aliza-joy-alipit-01b33b388) • [Portfolio](https://aliza-portfolio.onrender.com) • [Email](mailto:alizajoyalipit@gmail.com)
 
-![Aliza's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalipit&layout=compact&theme=oceanical_next&hide_border=true)
+### 📊 My GitHub Metrics
+![Commits](https://img.shields.io/badge/Commits-Generated-blue?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-Earned-aqua?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-Connect-lavender?style=for-the-badge&logo=github)
 
