@@ -15,8 +15,8 @@ Baguio-based developer specializing in bridging the gap between complex ML model
 ---
 
 ### 🚀 Currently Diving Into...
-*   **Semantic Fluidity:** Refining my mBERT pipeline for deeper multilingual intent analysis.
-*   **Surveillance Intuition:** Optimizing real-time data flows for surveillance dashboards.
+*   **Multilingual Semantic Analysis:** Refining my mBERT pipeline for deep intent classification across various languages.
+*   **Intuitive Surveillance:** Optimizing real-time data flows for surveillance dashboards.
 *   **Open Source:** Contributing to local tech communities (Google DevFest).
 
 ---
