@@ -22,4 +22,4 @@ Baguio-based developer specializing in bridging the gap between complex ML model
 ---
 
 ### 🐚 Connect with me
-[LinkedIn](www.linkedin.com/in/aliza-joy-alipit-01b33b388) • [Portfolio](https://aliza-portfolio.onrender.com) • [Email](mailto:alizajoyalipit@gmail.com)
+[LinkedIn](www.linkedin.com/in/aliza-joy-alipit-01b33b388) • [Portfolio]([https://aliza-portfolio.onrender.com](https://aliza-portfolio-tcjvhcx0y-aliza-portfolio.vercel.app/)) • [Email](mailto:alizajoyalipit@gmail.com)
